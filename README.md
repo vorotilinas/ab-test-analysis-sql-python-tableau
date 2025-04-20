@@ -19,7 +19,7 @@ This project focuses on analyzing A/B test results to evaluate the performance o
 ## Files in the Repository:
 - `ab_test_analysis.ipynb`: Google Colab notebook containing the complete analysis, including Z-tests and statistical significance evaluation.
 - **SQL Scripts**: SQL queries used to aggregate data from the BigQuery database.
-- **Tableau Dashboard**: Interactive visualizations for the analysis results. [Click here to view the dashboard on Tableau Public](https://public.tableau.com/app/profile/alex.vorotilin/viz/PortfolioProject2ABTesting/Signaficance).
+- **Tableau Dashboard**: Interactive visualizations for the analysis results. [Click here to view the dashboard on Tableau Public](https://public.tableau.com/app/profile/alex.vorotilin/viz/ABTestingAnalysis_17451477196220/ABTestingTool?publish=yes).
 
 ## Data Source:
 The A/B test data was sourced from an internal database (BigQuery) and includes user events, conversions, and test group data.
